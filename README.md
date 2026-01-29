@@ -1,7 +1,73 @@
-# Power-BI-1st-Project-
-Its a Power BI project in which we clean , analyze and create a dashboard from online data using only Power BI .   
+# 📊 Power BI Sales Analysis Dashboard – Classic Models
 
-Here we take a random data set named as classic model dataset in which sales of cars and other details are present . 
-we will clean the data , analyze it and create a dashboard with this data . 
+## 📌 Project Overview
+This project showcases an **end-to-end Power BI analytics workflow**, where raw sales data is cleaned, transformed, analyzed, and visualized into an interactive dashboard.
 
-Both before and after data are uploaded . 
+The **Classic Models dataset** is used, which contains information related to product sales, customers, orders, revenue, stock quantity, and employees across different countries.
+
+---
+
+## 🧾 Dataset Details
+- **Dataset Name:** Classic Models
+- **Domain:** Sales & Business Intelligence
+- **Data Includes:**
+  - Orders & order details
+  - Products & product lines
+  - Customers
+  - Revenue & quantity sold
+  - Employees by country
+
+Both **raw (uncleaned)** and **cleaned** datasets are uploaded in this repository for transparency.
+
+---
+
+## 🧹 Data Cleaning & Preparation
+Performed entirely using **Power Query in Power BI**:
+- Removed null and duplicate records
+- Fixed incorrect data types
+- Created date hierarchy (Year & Month)
+- Structured data model for reporting
+- Prepared measures for KPIs and trends
+
+---
+
+### 📈 Visual Insights
+- Monthly sales trend
+- Year-wise sales comparison
+- Top-selling products by quantity
+- Stock quantity distribution by product line
+- Employee distribution across countries
+- Customer-wise product purchase details
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI**
+- **Power Query Editor**
+- **DAX (Basic Measures)**
+- **Data Modeling**
+
+---
+
+## 🎯 What I Learned
+- End-to-end BI project structuring
+- Data cleaning using Power Query
+- KPI & trend-based analysis
+- Professional dashboard design
+- GitHub project documentation
+
+---
+
+## 🚀 Future Enhancements
+- Advanced DAX measures
+- Drill-through & tooltip pages
+- Customer segmentation
+- Forecasting & YoY growth analysis
+
+---
+
+## 👤 Author
+**Atharva Khare**  
+Aspiring Data Analyst  
+Skills: Power BI | SQL | Python | Data Analysis
+
