@@ -41,6 +41,13 @@ Performed entirely using **Power Query in Power BI**:
 
 ---
 
+## 🖼️ Dashboard Preview
+Below is the Power BI dashboard created from the cleaned dataset:
+
+![Sales Dashboard](Screenshot 2026-01-29 143932.png)
+
+---
+
 ## 🛠 Tools & Technologies
 - **Power BI**
 - **Power Query Editor**
