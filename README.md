@@ -44,7 +44,9 @@ Performed entirely using **Power Query in Power BI**:
 ## 🖼️ Dashboard Preview
 Below is the Power BI dashboard created from the cleaned dataset:
 
-![Sales Dashboard](Screenshot 2026-01-29 143932.png)
+![Sales Dashboard]
+<img width="1308" height="731" alt="Screenshot 2026-01-29 143932" src="https://github.com/user-attachments/assets/dbaa126b-3090-4dc6-82a2-3aeedc16f62f" />
+
 
 ---
 
